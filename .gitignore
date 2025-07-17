@@ -108,5 +108,3 @@ temp/
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-# Bolt.new specific files (remove for standalone deployment)
-.bolt/
