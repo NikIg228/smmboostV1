@@ -26,7 +26,10 @@ export const Footer: React.FC = () => {
               </span>
             </div>
             <p className="text-gray-400">
-              Профессиональные услуги по продвижению в социальных сетях. 
+              ТОО «White Trade».
+              БИН 250140025178
+              Казахстан, город Алматы, Бостандыкский район,
+              улица Тимирязева, дом 69, почтовый индекс 050057
               Быстро, безопасно, эффективно.
             </p>
           </div>
@@ -123,11 +126,11 @@ export const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-gray-400">
                 <Mail className="w-5 h-5" />
-                <span>support.smm.boost.kz@gmail.com</span>
+                <span>Danil_29.91@mail.ru</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <Phone className="w-5 h-5" />
-                <span>+7 707 345 12 12</span>
+                <span>+7 747 226 9752</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <MessageCircle className="w-5 h-5" />
