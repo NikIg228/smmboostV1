@@ -76,7 +76,7 @@ export const SupportPage: React.FC = () => {
                 </div>
               </div>
               <div className="space-y-2">
-                <div className="text-white">@smm.boost.kz</div>
+                <div className="text-white">danil_29.91@mail.ru</div>
                 <div className="text-sm text-gray-400">Ответ в течение 5 минут</div>
               </div>
             </div>
@@ -92,7 +92,7 @@ export const SupportPage: React.FC = () => {
                 </div>
               </div>
               <div className="space-y-2">
-                <div className="text-white">support.smm.boost.kz@gmail.com</div>
+                <div className="text-white">danil_29.91@mail.ru</div>
                 <div className="text-sm text-gray-400">Ответ в течение 24 часов</div>
               </div>
             </div>
@@ -108,7 +108,7 @@ export const SupportPage: React.FC = () => {
                 </div>
               </div>
               <div className="space-y-2">
-                <div className="text-white">+7 (707) 345 12 12</div>
+                <div className="text-white">+7 747 226 9752</div>
                 <div className="text-sm text-gray-400">Ежедневно с 9:00 до 21:00</div>
               </div>
             </div>
