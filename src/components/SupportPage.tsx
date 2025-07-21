@@ -76,7 +76,7 @@ export const SupportPage: React.FC = () => {
                 </div>
               </div>
               <div className="space-y-2">
-                <div className="text-white">danil_29.91@mail.ru</div>
+                <div className="text-white">danil_29.91</div>
                 <div className="text-sm text-gray-400">Ответ в течение 5 минут</div>
               </div>
             </div>
