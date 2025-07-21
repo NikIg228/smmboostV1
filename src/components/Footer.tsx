@@ -30,7 +30,6 @@ export const Footer: React.FC = () => {
               БИН 250140025178
               Казахстан, город Алматы, Бостандыкский район,
               улица Тимирязева, дом 69, почтовый индекс 050057
-              Быстро, безопасно, эффективно.
             </p>
           </div>
 
@@ -141,7 +140,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 SMM Boost. Все права защищены.</p>
+          <p>&copy; 2025 ТОО «White Trade» Все права защищены.</p>
         </div>
       </div>
     </footer>
